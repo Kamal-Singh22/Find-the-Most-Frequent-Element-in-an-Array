@@ -5,5 +5,5 @@ A HashMap stores the frequency of each number.
 
 As we update the frequency, we track the number with the highest frequency.
 
-At the end, we output the most frequent element and how many times it appeared.
+At the end, we output the most frequent element and how many times it appeared.....
 
